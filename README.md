@@ -35,8 +35,7 @@
 
 ## 📫 Contact Me
 
-📧 Email: robertofeliciano579@yahoo.com  
-📱 Phone: +1 (939) 715-4663  
+📧 Email: robertofeliciano579@yahoo.com   
 📍 Location: Puerto Rico 🇵🇷  
 
 ---
