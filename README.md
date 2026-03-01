@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Roberto José Feliciano 👋
 
-<!--
-**rrobertf/rrobertf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Interamericana University of Ponce  
+💻 Interested in Software Development & Backend Development  
+🌎 Future goal: Work in the United States  
+🛠 Currently learning: C++, .NET, Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- 🔢 Calculator in C++
+- 🌐 Mental Health Advocacy Website (HTML & CSS)
+- 🧮 RESTful API Exercises
+- 📊 Credit Score Tracker Logic Project (coming soon)
+
+---
+
+## 📫 Contact
+
+Email: robertofeliciano579@yahoo.com  
+Number: 939-715-4663
+Location: Puerto Rico 🇵🇷
